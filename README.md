@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo a Raiders Academy!
+# Raiders Academy!
 
 - 👩‍💻 Somos um fórum de estudantes para garantir a participação e ensino ativo para os calouros.
 
