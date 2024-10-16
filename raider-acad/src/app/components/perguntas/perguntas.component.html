@@ -1,0 +1,86 @@
+<main>
+    <div class="container">
+    <div class="subject">
+        <h1>Banco de dados Relacional</h1>
+        <form  role="search">
+            <input type="search"  placeholder="Pesquisar" aria-label="Search">
+
+        </form>
+    </div>
+    </div>
+    <div class="container">
+        <a [routerLink]="['/resposta']">
+            <div class="subject">
+                <ul>
+                    <li>
+                        <div class="user-info">
+                            <img src="../../assets/img/userFoto.png" alt="Foto de João" class="user-photo">
+                            <div class="user-details">
+                                <span class="user-name">João Silva</span>
+                                <span class="user-course">1º semestre, Desenvolvimento de software</span>
+                            </div>
+                        </div>
+                        <div class="question">Estou com problemas no select</div>
+                        <div class="response">Resposta de Maria: Já tentou verificar se as tabelas existem...</div>
+                        <div class="likes">
+                            <img src="../../assets/img/curtir.png" alt="Curtir">
+                            <span>12</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </a>
+        <div class="subject">
+                <ul>
+                    <li>
+                        <div class="user-info">
+                            <img src="../../assets/img/userFoto.png" alt="Foto de Maria" class="user-photo">
+                            <div class="user-details">
+                                <span class="user-name">Maria Oliveira</span>
+                                <span class="user-course">2º semestre, Desenvolvimento de software</span>
+                            </div>
+                        </div>
+                        <div class="question">Não consigo fazer subconsulta</div>
+                        <div class="response">Resposta de João: Recomendo revisar os conceitos básicos de select...</div>
+                        <div class="likes">
+                            <img src="../../assets/img/curtir.png" alt="Curtir">
+                            <span>8</span>
+                        </div>
+                    </li>
+                </ul>
+        </div>
+        <div class="subject">
+                <ul>
+                    <li>
+                        <div class="user-info">
+                            <img src="../../assets/img/userFoto.png" alt="Foto de Pedro" class="user-photo">
+                            <div class="user-details">
+                                <span class="user-name">Pedro Costa</span>
+                                <span class="user-course">4º semestre, Desenvolvimento de software</span>
+                            </div>
+                        </div>
+                        <div class="question">Alguém pode me ajudar com esse erro:</div>
+                        <div class="response">Resposta de Ana: tenta isso aqui...</div>
+                        <div class="likes">
+                            <img src="../../assets/img/curtir.png" alt="Curtir">
+                            <span>15</span>
+                        </div>
+                    </li>
+                </ul>
+        </div>
+         <!-- Botão para nova pergunta -->
+         <button class="new-question-button" (click)="toggleNewResponseForm()">Nova Pergunta</button>
+         <!-- Formulário para nova resposta -->
+         @if(showTextArea){
+         <div class="new-question-form" id="new-question-form">
+             <form action="#" method="post">
+                 <textarea name="new-question" id="new-question" rows="4" placeholder="Escreva sua pergunta aqui"></textarea>
+                 <button type="submit">Enviar</button>
+             </form>
+         </div>
+         }
+        
+        
+
+    </div>
+</main>

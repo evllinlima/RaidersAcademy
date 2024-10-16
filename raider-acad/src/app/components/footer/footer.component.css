@@ -1,0 +1,84 @@
+/* footer.css */
+footer {
+    background-color: #013C5E; /* Fundo do footer */
+    color: #ffffff; /* Cor do texto */
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between; /* Espaço igual entre os itens */
+    flex-wrap: wrap; /* Permite que os itens se ajustem em várias linhas */
+    margin: 0 auto; /* Centraliza o container dentro do footer */
+    max-width: 1200px; /* Define uma largura máxima para o footer */
+    padding: 0 20px; /* Adiciona algum padding nas laterais para espaçamento */
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+    text-align: left; /* Alinha o texto à esquerda dentro de cada seção */
+}
+
+.footer-section.logo img {
+    height: 150px;
+    margin: 0 auto; /* Centraliza a imagem dentro da seção logo */
+}
+
+.footer-section h3 {
+    margin-bottom: 10px;
+}
+
+.footer-section p, .footer-section ul {
+    margin: 5px 0;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+    border: 0;
+    background-color: #013c5e;
+}
+
+.footer-section ul li a {
+    color: white; /* Cor dos links */
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-section .map iframe {
+    width: 100%;
+    border: none;
+}
+
+.footer-bottom {
+    background-color: #0B3C5D; /* Fundo do rodapé inferior */
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-img {
+    width: 50px; /* Ajusta o tamanho da imagem do WhatsApp */
+    margin-top: 30px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column; /* Muda a direção dos itens para coluna em telas menores */
+        align-items: center; /* Centraliza os itens em telas menores */
+    }
+    .footer-section {
+        margin: 20px 0; /* Adiciona margem vertical em telas menores */
+    }
+}
