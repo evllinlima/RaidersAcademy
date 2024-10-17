@@ -11,7 +11,7 @@ text-decoration: unset;
 color: unset;
 }
 .subject {
-    background-color: #0B3C5D; 
+    background-color: #000; 
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     margin: 15px auto;
@@ -34,8 +34,8 @@ ul {
 li {
     display: flex;
     flex-direction: column;
-    background-color: #145A8A; 
-    border: 1px solid #1A75BB;
+    background-color: #000; 
+    border: 1px solid #000;
     margin: 5px 0;
     padding: 10px;
     border-radius: 4px;

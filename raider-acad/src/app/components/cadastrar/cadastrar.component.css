@@ -8,8 +8,7 @@
 
 /* Estilo do formulário de cadastro */
 .subject {
-    background-color: #0B3C5D; 
-    border-radius: 8px;
+    background-color: #000;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     margin: 15px auto;
     padding: 20px;
@@ -59,7 +58,7 @@ h1 {
 
 /* Estilos para os botões */
 .botaoLogin {
-    background-color: #1D4E89; /* Cor do botão */
+    background-color: #000; /* Cor do botão */
     border: none;
     border-radius: 5px;
     color: #ffffff;

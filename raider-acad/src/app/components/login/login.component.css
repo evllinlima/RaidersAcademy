@@ -6,7 +6,7 @@
 }
 
 body {
-	background:#000000ee;
+	background:#000;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -21,9 +21,22 @@ h1 {
 	margin: 0;
 }
 
-h2 {
-	text-align: center;
+label {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+    margin-right: 30px; /* Espaço entre a bolinha e o texto */
 }
+
+.form-container{
+	color: #000;
+}
+
+.overlay-panel {
+	color: #fff;
+}
+
 
 p {
 	font-size: 14px;
@@ -98,7 +111,7 @@ input {
 	overflow: hidden;
 	width: 768px;
 	max-width: 100%;
-	min-height: 480px;
+	min-height: 580px;
 }
 
 .form-container {
@@ -160,7 +173,7 @@ input {
 }
 
 .overlay {
-	background: #014034;
+	background: #fff;
 	background: -webkit-linear-gradient(to right, #FF0000,#f80808);
 	background: linear-gradient(to right, #e40909, #e40909);
 	background-repeat: no-repeat;

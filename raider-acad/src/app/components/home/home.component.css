@@ -10,7 +10,7 @@
   
   /* Seções principais */
   .subject {
-    background-color: #0B3C5D;
+    background-color: #000;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 15px auto;
@@ -70,16 +70,16 @@
   
   /* Estilo para o carousel */
   .subject .carousel-container {
-    width: 100%;
+    width: 60%;
   }
   
   .carousel-inner {
-    border-radius: 30px;
+    border-radius: 8px;
   }
   
   .carousel-item img {
-    border-radius: 30px;
-    max-width: 100%;
+    border-radius: 8px;
+    max-width: 60%;
   }
   
   /* Ajuste de botões do carousel */
@@ -89,7 +89,7 @@
   }
   
   /* Responsividade */
-  @media (max-width: 768px) {
+  @media (max-width: 468px) {
     .subject .conteudo {
       flex-direction: column;
     }

@@ -1,6 +1,6 @@
 /* footer.css */
 footer {
-    background-color: #013C5E; /* Fundo do footer */
+    background-color: #000; /* Fundo do footer */
     color: #ffffff; /* Cor do texto */
     padding: 20px 0;
     font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@ footer {
 .footer-section ul li {
     margin: 5px 0;
     border: 0;
-    background-color: #013c5e;
+    background-color: #0000;
 }
 
 .footer-section ul li a {
@@ -62,7 +62,7 @@ footer {
 }
 
 .footer-bottom {
-    background-color: #0B3C5D; /* Fundo do rodapé inferior */
+    background-color: #000; /* Fundo do rodapé inferior */
     text-align: center;
     padding: 10px 0;
 }

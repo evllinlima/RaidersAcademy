@@ -18,7 +18,7 @@ a{
     color: unset;
 }
 .subject {
-    background-color: #0B3C5D; 
+    background-color: #000; 
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     margin: 15px auto;
@@ -44,8 +44,8 @@ ul {
 li {
     display: flex;
     flex-direction: column;
-    background-color: #145A8A; /* Cor de fundo das listas */
-    border: 1px solid #1A75BB;
+    background-color: #000; /* Cor de fundo das listas */
+    border: 1px solid #000;
     margin: 5px 0;
     padding: 10px;
     border-radius: 4px;
@@ -92,7 +92,7 @@ li {
 .new-question-button {
     display: block;
     margin: 20px auto;
-    background-color: #145A8A;
+    background-color: #000;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -102,11 +102,11 @@ li {
 }
 
 .new-question-button:hover {
-    background-color: #0B3C5D;
+    background-color: #000;
 }
 
 .new-question-form {
-    background-color: #0B3C5D;
+    background-color: #000;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 15px auto;
@@ -135,7 +135,7 @@ li {
 
 .new-question-form button {
     margin-top: 10px;
-    background-color: #145A8A;
+    background-color: #000;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -145,5 +145,5 @@ li {
 }
 
 .new-response-form button:hover {
-    background-color: #0B3C5D;
+    background-color: #000;
 }
