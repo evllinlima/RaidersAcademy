@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href=#sobre">Sobre</a>
-<a href=#local"> Acesse localmente</a>
+<a href=#Metodologias"> Metodologias</a>
 <a href=#equipe">Equipe</a>
 </p>
 
