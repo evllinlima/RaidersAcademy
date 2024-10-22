@@ -16,10 +16,10 @@
 
 # 👥: Equipe
 <span id="equipe">
-<h4> Evellin de Lima Jacinto </h4>
-<h4> Gabriel Henrique Joia </h4>
-<h4> João Alberto Pivetta </h4>
-<h4> Lucas Santos Gomes </h4>
+<ul> Evellin de Lima Jacinto </ul>
+<ul> Gabriel Henrique Joia </ul>
+<ul> João Alberto Pivetta </ul>
+<ul> Lucas Santos Gomes </ul>
 
 <div>
  <a href="[https://evllinlima](https://github.com/evllinlima)">
