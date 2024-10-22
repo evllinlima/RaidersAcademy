@@ -1,0 +1,51 @@
+/* footer.css */
+:root {
+  --dark-blue: #050a1c;
+  --light-blue: #0a1a3a;
+  --white: #ffffff;
+  --accent: #00e5ff;
+  --neon-glow: 0 0 10px #00e5ff, 0 0 20px #00e5ff, 0 0 30px #00e5ff;
+}
+footer {
+    background-color: var(--light-blue);
+    padding: 50px 0;
+    color: var(--white);
+}
+  
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+  
+.footer-section {
+    flex: 1;
+    margin: 20px;
+    min-width: 200px;
+}
+  
+.footer-section h3 {
+    color: var(--accent);
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+  
+.footer-section p, .footer-section ul {
+    margin-bottom: 10px;
+}
+  
+.footer-section ul {
+    list-style-type: none;
+}
+  
+.footer-section a {
+    color: var(--white);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+  
+.footer-section a:hover {
+    color: var(--accent);
+}

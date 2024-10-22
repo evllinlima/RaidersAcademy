@@ -1,0 +1,23 @@
+:root {
+  --dark-blue: #050a1c;
+  --light-blue: #0a1a3a;
+  --white: #ffffff;
+  --accent: #00e5ff;
+  --neon-glow: 0 0 10px #00e5ff, 0 0 20px #00e5ff, 0 0 30px #00e5ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--dark-blue);
+  color: var(--white);
+  overflow-x: hidden;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(0, 229, 255, 0.1) 0%, transparent 20%),
+    radial-gradient(circle at 90% 80%, rgba(0, 229, 255, 0.1) 0%, transparent 20%);
+}

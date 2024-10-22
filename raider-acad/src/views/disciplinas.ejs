@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/header.css"> <!-- CSS do Header -->
+    <link rel="stylesheet" href="/css/home.css">   <!-- CSS da Home -->
+    <link rel="stylesheet" href="/css/footer.css"> <!-- CSS do Footer -->
+    <link rel="stylesheet" href="/css/carousel.css"> <!-- CSS do Carrossel -->
+    <link rel="stylesheet" href="/css/disciplinas.css">
+</head>
+<body>
+  <%- include('partials/header') %> <!-- Incluir Header -->
+
+  <main class="discipline-container">
+    <!-- O conteúdo dinâmico será gerado pelo JS -->
+  </main>
+
+  <%- include('partials/footer') %> <!-- Incluir Footer -->
+
+</body>
+<main class="discipline-container">
+</main>
+  <script src="/js/header.js"></script>  <!-- JS do Header -->
+  <script src="/js/home.js"></script>    <!-- JS da Home -->
+  <script src="/js/footer.js"></script>   <!-- JS do Footer -->
+  <script src="/js/carousel.js"></script> <!-- JS do Carrossel -->
+  <script src="/js/disciplinas.js"></script>
+</html>
