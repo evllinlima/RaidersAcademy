@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<a href=#sobre">Sobre  | </a>
-<a href=#local"> Acesse localmente  | </a>
+<a href=#sobre">Sobre</a>
+<a href=#local"> Acesse localmente</a>
 <a href=#equipe">Equipe</a>
 </p>
 
