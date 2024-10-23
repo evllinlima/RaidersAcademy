@@ -7,6 +7,7 @@
 <a href=#Metodologias"> Metodologias</a>
 <a> | </a>
 <a href=#equipe">Equipe</a>
+<a> | </a>
 </p>
 
 # 📑 Sobre o projeto
