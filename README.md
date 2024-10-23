@@ -5,6 +5,7 @@
 <a href=#sobre">Sobre</a>
 <a> | </a>
 <a href=#Metodologias"> Metodologias</a>
+<a> | </a>
 <a href=#equipe">Equipe</a>
 </p>
 
