@@ -21,8 +21,8 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 <span id="equipe">
 | Nome           | Função                  | LinkedIn |
 |----------------|-------------------------|----------|
-| Evellin Lima   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-evellin) |
-| Gabriel Joia   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-gabriel) |
-| João Pivetta   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-joao) |
-| Lucas Gomes    | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-lucas) |
+| Evellin Lima   | Dev Team                | 
+| Gabriel Joia   | Dev Team                |
+| João Pivetta   | Dev Team                | 
+| Lucas Gomes    | Dev Team                |
 
