@@ -19,11 +19,10 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 
 # 👥: Equipe
 <span id="equipe">
-<ul> Evellin de Lima Jacinto </ul>
-<ul> Gabriel Henrique Joia </ul>
-<ul> João Alberto Pivetta </ul>
-<ul> Lucas Santos Gomes </ul>
+| Nome           | Função                  | LinkedIn |
+|----------------|-------------------------|----------|
+| Evellin Lima   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-evellin) |
+| Gabriel Joia   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-gabriel) |
+| João Pivetta   | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-joao) |
+| Lucas Gomes    | Dev Team                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/exemplo-lucas) |
 
-<div>
- <a href="[https://evllinlima](https://github.com/evllinlima)">
-</div>
