@@ -1,5 +1,4 @@
 <br id="topo">
-Sobre |  | Protótipo & Documentação | Tecnologias | Equipe | Documentação Geral.
 
 <p align="center">
 <a href=#sobre">Sobre</a>
