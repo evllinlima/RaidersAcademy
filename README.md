@@ -1,10 +1,14 @@
 <br id="topo">
-
+Sobre |  | Protótipo & Documentação | Tecnologias | Equipe | Documentação Geral.
 
 <p align="center">
 <a href=#sobre">Sobre</a>
 <a> | </a>
-<a href=#Metodologias"> Metodologias</a>
+<a href=#backlog">Backlogs & User Stories</a>
+<a> | </a>
+<a href=#documentacao"> Documentação</a>
+<a> | </a>
+<a href=#tecnologias">Tecnologias</a>
 <a> | </a>
 <a href=#equipe">Equipe</a>
 <a> | </a>
