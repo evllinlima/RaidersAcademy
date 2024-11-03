@@ -1,6 +1,6 @@
 <br id="topo">
 <div align="center">
-<img src="https://imgur.com/ZK24Tyq" alt="banner">
+![Imgur](https://imgur.com/ZK24Tyq)
 </div>
 
 <p align="center">
