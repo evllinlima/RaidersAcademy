@@ -1,6 +1,5 @@
 <br id="topo">
 <div align="center">
-![RAIDERS ACADEMY](https://github.com/user-attachments/assets/2ae0110c-ffc0-4075-9335-7ad2a7451f18)
 </div>
 
 <p align="center">
