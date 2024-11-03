@@ -1,6 +1,6 @@
 <br id="topo">
 <div align="center">
-![image](https://github.com/user-attachments/assets/629ae8f4-9a41-4e57-9c7f-ca3c31d03647)
+<img src="https://imgur.com/ZK24Tyq" alt="banner">
 </div>
 
 <p aling="center">
