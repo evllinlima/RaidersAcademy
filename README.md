@@ -3,7 +3,7 @@
 <img src="https://imgur.com/ZK24Tyq" alt="banner">
 </div>
 
-<p aling="center">
+<p align="center">
   <a href=#sobre">Sobre</a>  |
   <a href=#backlog">Backlogs & User Stories</a>  |
   <a href=#documentacao"> Documentação</a>  |
