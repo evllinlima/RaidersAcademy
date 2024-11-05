@@ -18,5 +18,15 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 <span id="metodologias">
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-# 👥: Equipe
+## 👥: Equipe
+<span id="equipe">
+
+| Função          | Membro                   |
+|-----------------|--------------------------|
+|   Dev Team      | João Alberto Pivetta     |
+|   Dev Team      | Lucas Santo Gomes        |
+|   Dev Team      | Évellin de Lima Jacinto  |
+|   Dev Team      | Gabriel Henrique Joia    |
+
+
 
