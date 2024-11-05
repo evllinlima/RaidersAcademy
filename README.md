@@ -23,7 +23,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 | Função          | Membro                   |  Conecte-se                  |
 |-----------------|--------------------------|----------------------------------------------------------------------------------------------------------------------|
-|   Dev Team      | João Alberto Pivetta     | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/seu-usuario) |
+|   Dev Team      | João Alberto Pivetta     | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/evllinlima) |
 |   Dev Team      | Lucas Santo Gomes        | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/seu-usuario) |
 |   Dev Team      | Évellin de Lima Jacinto  | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/seu-usuario) |
 |   Dev Team      | Gabriel Henrique Joia    | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/seu-usuario) |
