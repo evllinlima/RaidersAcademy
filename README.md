@@ -26,6 +26,38 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 <!--   <img src="requisitos.png"> -->
 <!--   <img src="requisitosnf.png"> -->
 
+
+## Protótipo e Documentação
+### 🏠 Protótipo 
+<span id="prototipo">
+    Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
+<!--     O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a> -->
+
+
+### 📄 Documentação 
+As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
+<!-- Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
+E [Documentação ihc](ihc_compras.pdf). <br> -->
+
+<span id="link">
+    
+> 🔗 **Links gerais** <br>
+> - Link do sistema funcional: <!--- [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app) -->
+> - Repositório do projeto: <!-- [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful) -->
+
+
+## 🛠️ Tecnologias Utilizadas 
+<span id="tecnologias">
+    <p align="center">
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongodb,vercel,vscode,figma" />
+  </a>
+</p>
+</span>
+
+
+## :busts_in_silhouette: Equipe
+
    <img src="user_stories.png">
 </div>
 ## 👥: Equipe
