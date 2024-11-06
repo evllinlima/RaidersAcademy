@@ -60,7 +60,6 @@ E [Documentação ihc](ihc_compras.pdf). <br> -->
 
    <img src="user_stories.png">
 </div>
-## 👥: Equipe
 <span id="equipe">
 
 | Função          | Membro                   |  Conecte-se                  |
