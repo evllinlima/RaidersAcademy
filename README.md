@@ -15,7 +15,7 @@
 A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto visa desenvolver uma plataforma inovadora destinada a alunos, professores e universidades, proporcionando um ambiente digital colaborativo e enriquecedor para a comunidade acadêmica. O principal objetivo é promover a interação entre esses três pilares fundamentais do ensino superior, criando um espaço virtual onde possam compartilhar conhecimentos, recursos e experiências.
 
 
->_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição_
+>_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a produtividade e colaboração entre o time de desenvolvedores._
   
 ## 📄 Metodologias
 <span id="metodologias">
