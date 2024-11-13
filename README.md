@@ -4,8 +4,9 @@
 
 <p align="center">
   <a href=#sobre">Sobre</a>  |
+  <a href=#sobre">Metodologia</a>  |
   <a href=#backlog">Backlogs & User Stories</a>  |
-  <a href=#documentacao"> Documentação</a>  |
+  <a href=#documentacao">Documentação</a>  |
   <a href=#tecnologias">Tecnologias</a>  |
   <a href=#equipe">Equipe</a>
 </p>
