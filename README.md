@@ -24,31 +24,13 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 <-- ada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:--!>
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | xxxxxxx| ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
-| 02 | xxxxxx | ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
-| 03 | xxxxxx | ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
+| 01 | 14/04/2022 | ✔️ Concluída    | [ver relatório](xxxxxxx) |
+| 02 | 15/05/2022 | ✔️ Concluída    | [ver relatório](xxxxxxx) |
+| 03 | 05/06/2022 | ✔️ Concluída    | [ver relatório](xxxxxxx) |
 
 ### :clapper: Apresentação Final
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
-<details>
-   <summary>Usuário comum</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário suporte</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário administrador</summary>
-    <div align="center">
-        <img src="./usuario_administrador.gif">
-    </div>
-</details>
-    
+Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+
 → [Voltar ao topo](#topo)
 
 <span id="backlogs">
@@ -56,10 +38,6 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 ## :dart: Backlogs & User Stories
     
 <div align="center">
-    
-![product backlog](xxxxxxxxxxxxxx)
-![sprint backlog](xxxxxxxxxxxxxx)
-![user stories](xxxxxxxxxxxxxxxx)
 </div>
   
 → [Voltar ao topo](#topo)
@@ -67,16 +45,16 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo & Documentação
-Como parte do planejamento do projeto foram criados protótipos de baixa fidelidade utilizando o Figma para idealização do layout.
     
-Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação desses microsserviços, um dos requisitos funcionais do projeto, foi aplicada utilizando o Swagger, mapeando endpoints de cada API criada.
-Para outras documentações do projeto, foi unificado em PDF.
+Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação de microsserviços, um dos requisitos não funcionais desejados para o projeto, foi aplicada durante o desenvolvimento do projeto, utilizando ferramentas como o Swagger, mapeando os endpoints das API criadas no projeto.
+Para outras documentações do projeto foram condensadas em arquivo PDF.
     
 > 🔗 **Links gerais** <br>
-> - Documentação do software: [clique aqui para acessar](xxxxxxx)
+> - Documentação do software: [clique aqui para acessar](./documentacao_geral.pdf)
+> - Manual do usuário: [clique aqui para acessar](./manual_usuario.pdf)
 > - Links para os repositórios criados:
->    - **Frontend:** [acessar help-duck-web](xxxxxxxxxx)
->    - **Backtend:** [acessar help-duck-web](xxxxxxxxxx)
+>    - **Frontend:** [clique para acessar o front-end](xxxxxxx))
+>    - **Backend:** [clique para acessar o back-end](xxxx))
 
 → [Voltar ao topo](#topo)
 
