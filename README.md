@@ -43,6 +43,7 @@ E [Documentação ihc](ihc_compras.pdf). <br> -->
 > 🔗 **Links gerais** <br>
 > - Link do sistema funcional: <!--- [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app) -->
 > - Repositório do projeto: <!-- [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful) -->
+> - Acesse o Jira do projeto: [clique aqui para acessar](https://evellin.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
 
 ## 🛠️ Tecnologias Utilizadas 
@@ -56,8 +57,6 @@ E [Documentação ihc](ihc_compras.pdf). <br> -->
 
 
 ## :busts_in_silhouette: Equipe
-
-   <img src="user_stories.png">
 </div>
 <span id="equipe">
 
