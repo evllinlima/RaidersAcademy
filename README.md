@@ -14,14 +14,14 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto visa desenvolver uma plataforma inovadora **destinada principalmente a alunos**, professores e universidades, proporcionando um ambiente digital colaborativo e enriquecedor para a comunidade acadêmica. O principal objetivo é promover a interação entre esses três pilares fundamentais do ensino superior, criando um espaço virtual onde possam compartilhar conhecimentos, recursos e experiências.
+A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto visa desenvolver uma plataforma inovadora **destinada principalmente a alunos**, professores e universidades, proporcionando um ambiente digital colaborativo e enriquecedor para a comunidade acadêmica. O principal objetivo é promover a interação entre esses três pilares fundamentais do ensino, criando um espaço virtual onde possam compartilhar conhecimentos, recursos e experiências.
 
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autogestão, colaboração e entrega de resultados dos estudantes envolvidos no projeto_
 
 :pushpin: Status do Projeto: **Em andamento** :heavy_check_mark:
 
 ### 🏁 Entregas de Sprints
-<-- ada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:--!>
+As entregas foram realizadas a partir da criação de Sprints utilizando a plataforma Jira.
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
@@ -50,9 +50,6 @@ Por conta da arquitetura orientada a microsserviços adotada neste projeto, houv
 Para outras documentações do projeto foram condensadas em arquivo PDF.
     
 > 🔗 **Links gerais** <br>
-> - Documentação do software: [clique aqui para acessar](./documentacao_geral.pdf)
-> - Manual do usuário: [clique aqui para acessar](./manual_usuario.pdf)
-> - Links para os repositórios criados:
 >    - **Frontend:** [clique para acessar o front-end](xxxxxxx))
 >    - **Backend:** [clique para acessar o back-end](xxxx))
 
