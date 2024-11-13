@@ -79,9 +79,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 | Função          | Membro                   |  Conecte-se                  |
 |-----------------|--------------------------|----------------------------------------------------------------------------------------------------------------------|
-|   Dev Team      | João Alberto Pivetta     | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/joaopivetta) |
-|   Dev Team      | Lucas Santo Gomes        | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/lucassantosgomes02) |
-|   Dev Team      | Évellin de Lima Jacinto  | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/evllinlima)  |
+|   Product Owner | Évellin de Lima Jacinto  | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/evllinlima)  |
 |   Dev Team      | Gabriel Henrique Joia    | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/GabrielHJoia)|
+|   Scrum Master  | João Alberto Pivetta     | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/joaopivetta) |
+|   Dev Team      | Lucas Santo Gomes        | [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/lucassantosgomes02) |
 
 → [Voltar ao topo](#topo)
