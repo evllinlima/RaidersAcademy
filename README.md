@@ -24,12 +24,12 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 <-- ada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:--!>
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 14/04/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
-| 02 | 15/05/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
-| 03 | 05/06/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
+| 01 | xxxxxxx| ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
+| 02 | xxxxxx | ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
+| 03 | xxxxxx | ✔️ Concluída    | [ver relatório](xxxxxxxxxxxxxxxxxxxxxx) |
 
 ### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 <details>
    <summary>Usuário comum</summary>
     <div align="center">
@@ -57,9 +57,9 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
     
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-![user stories](https://user-images.githubusercontent.com/69374340/172057949-daade83b-8fec-4acc-a3cf-c4a26a3d3162.png)
+![product backlog](xxxxxxxxxxxxxx)
+![sprint backlog](xxxxxxxxxxxxxx)
+![user stories](xxxxxxxxxxxxxxxx)
 </div>
   
 → [Voltar ao topo](#topo)
@@ -67,25 +67,16 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo & Documentação
-Como parte do planejamento do projeto foram criados wireframes e mockups para idealização do layout, que, ao ser validado pelo cliente, foram aplicados em um protótipo construído em React, possibilitando a interação do usuário com a interface (vide [entrega da primeira sprint](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md)).
+Como parte do planejamento do projeto foram criados protótipos de baixa fidelidade utilizando o Figma para idealização do layout.
     
-Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação desses microsserviços, um dos requisitos não funcionais desejados para o projeto, foi praticada durante todo o desenvolvimento através de ferramentas como o Swagger ou readmes dos repositórios, mapeando todos os endpoints de cada API criada relacionada ao projeto, enquanto que para outras documentações do projeto como um todo, tais como os fluxos de dados, diagramas de classe e de uso, modelagem de banco de dados e arquiteturas foram condensadas em um guia PDF.
+Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação desses microsserviços, um dos requisitos funcionais do projeto, foi aplicada utilizando o Swagger, mapeando endpoints de cada API criada.
+Para outras documentações do projeto, foi unificado em PDF.
     
 > 🔗 **Links gerais** <br>
-> - Documentação do software: [clique aqui para acessar](./documentacao_geral.pdf)
-> - Manual do usuário: [clique aqui para acessar](./manual_usuario.pdf)
+> - Documentação do software: [clique aqui para acessar](xxxxxxx)
 > - Links para os repositórios criados:
->    - **Frontend:** [acessar help-duck-web](https://github.com/The-Bugger-Ducks/help-duck-web)
->    - **Microsserviços (backend):**
->       - **Usuários e equipamentos:** [acessar help-duck-register](https://github.com/The-Bugger-Ducks/help-duck-register)
->       - **Autenticação:** [acessar help-duck-authentication](https://github.com/The-Bugger-Ducks/help-duck-authentication)
->       - **Relatórios:** [acessar help-duck-dashboard](https://github.com/The-Bugger-Ducks/help-duck-dashboard)
->       - **Centro de soluções:** [acessar help-duck-solution-center](https://github.com/The-Bugger-Ducks/help-duck-solution-center)
->       - **Controle de chamados:** [acessar help-duck-tickets](https://github.com/The-Bugger-Ducks/help-duck-tickets)
-> - Documentações das APIs:
->    - **Microsserviço de usuários e equipamentos:** [acessar Swagger](https://help-duck-register.herokuapp.com/swagger-ui/index.html#/)
->    - **Microsserviço de controle de chamados:** [acessar Swagger](https://help-duck-ticket.herokuapp.com/swagger-ui/index.html#/)
->    - **Microsserviço de problemas e soluções:** [acessar Swagger](https://help-duck-solution-center.herokuapp.com/swagger-ui/index.html#/)
+>    - **Frontend:** [acessar help-duck-web](xxxxxxxxxx)
+>    - **Backtend:** [acessar help-duck-web](xxxxxxxxxx)
 
 → [Voltar ao topo](#topo)
 
