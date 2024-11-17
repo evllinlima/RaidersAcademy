@@ -37,8 +37,8 @@ Confira demonstração das funcionalidades do projeto:
 
 ## :dart: Backlogs & User Stories
 <div align="center">
-<img src="https://i.ibb.co/yQ62mLJ/1.png" alt="backlogs" border="0"></a>
-<img src="https://i.ibb.co/QfMm5b2/2.png" alt="backlogs" border="4"></a>
+<img src="https://i.ibb.co/yQ62mLJ/1.png" alt="backlogs" border-radius="7"></a>
+<img src="https://i.ibb.co/QfMm5b2/2.png" alt="backlogs" border-radius="4"></a>
 </div>
   
 → [Voltar ao topo](#topo)
