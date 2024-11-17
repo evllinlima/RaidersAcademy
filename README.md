@@ -39,7 +39,7 @@ Confira demonstração das funcionalidades do projeto:
 <div align="center">
 <img src="https://i.ibb.co/yQ62mLJ/1.png" alt="backlogs" width=50%></a>
 <img src="https://i.ibb.co/QfMm5b2/2.png" alt="backlogs" width=50%></a>
-<img src="https://i.ibb.co/Hq1s96S/14.png" alt="14" border="0"></a>
+<img src="https://i.ibb.co/Hq1s96S/14.png" alt="14" width=50%></a>
 </div>
   
 → [Voltar ao topo](#topo)
