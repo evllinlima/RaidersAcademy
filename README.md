@@ -12,7 +12,7 @@
 </p>
    
 <span id="sobre">
-
+<div align="center">
 ## :bookmark_tabs: Sobre o projeto
 **A Raiders Academy** é uma plataforma educacional, estruturada no formato de fórum online, que tem como objetivo central criar um ambiente colaborativo e interativo entre **alunos**, **professores** e **universidades**. A proposta da plataforma é oferecer uma interface intuitiva e dinâmica, desenvolvida para atender às necessidades da comunidade acadêmica, possibilitando a troca de conhecimentos, recursos e experiências entre os diferentes públicos.
 
@@ -21,6 +21,7 @@ Nosso principal objetivo é promover um espaço virtual que facilite a interaç�
 A Raiders Academy visa, assim, criar uma **sinergia** entre os três grupos envolvidos — alunos, professores e instituições de ensino — promovendo um ambiente de aprendizado mais dinâmico e integrador. A plataforma tem como propósito atuar de maneira colaborativa para estimular o **desenvolvimento contínuo** e a **inovação** no ensino e na aprendizagem, utilizando recursos tecnológicos e metodologias pedagógicas modernas.
 
 Além disso, oferecemos aos usuários a possibilidade de expandir suas redes de contato e desenvolver novas habilidades por meio da interação com colegas e especialistas de diversas áreas do conhecimento. Dessa forma, buscamos não apenas ser um local de acesso a conteúdos educacionais, mas também um verdadeiro **ecossistema digital de aprendizado**, onde o compromisso com a excelência educacional e a troca construtiva de ideias sejam a base para o crescimento intelectual e profissional de todos.
+</div>
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autogestão, colaboração e entrega de resultados dos estudantes envolvidos no projeto integrador._
 
