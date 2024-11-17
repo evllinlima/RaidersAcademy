@@ -38,6 +38,8 @@ Confira demonstração das funcionalidades do projeto:
 ## :dart: Backlogs & User Stories
 <div align="center">
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
+![imagem](https://github.com/user-attachments/assets/e2f59e01-2db5-453b-a765-5234570056e0)
+
 </div>
   
 → [Voltar ao topo](#topo)
