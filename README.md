@@ -23,10 +23,11 @@ A Raiders Academy é uma plataforma educativa no formato de fórum, o projeto vi
 ### 🏁 Entregas de Sprints
 As entregas foram realizadas a partir da criação de Sprints utilizando a plataforma Jira.
 | Sprint | Previsão | Status | Histórico |
-|:--:|:----------:|:----------------|:-------------------------------------------------:|
+|:--:|:----------:|:----------------|:-------------------------:|
 | 01 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
 | 02 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
-| 03 | xx/xx/xxxx | ✔️ Em andamento | [ver relatório](xxxxxxx) |
+| 03 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
+| 04 | xx/xx/xxxx | ✔️ Em andamento | [ver relatório](xxxxxxx) |
 
 ### :clapper: Apresentação Final
 Confira demonstração das funcionalidades do projeto:
