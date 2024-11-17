@@ -12,8 +12,9 @@
 </p>
    
 <span id="sobre">
-<div align="center">
+
 ## :bookmark_tabs: Sobre o projeto
+<div align="center">
 **A Raiders Academy** é uma plataforma educacional, estruturada no formato de fórum online, que tem como objetivo central criar um ambiente colaborativo e interativo entre **alunos**, **professores** e **universidades**. A proposta da plataforma é oferecer uma interface intuitiva e dinâmica, desenvolvida para atender às necessidades da comunidade acadêmica, possibilitando a troca de conhecimentos, recursos e experiências entre os diferentes públicos.
 
 Nosso principal objetivo é promover um espaço virtual que facilite a interação contínua entre estudantes, permitindo que compartilhem suas vivências acadêmicas, questionamentos, materiais de estudo e boas práticas. Ao incentivar essa troca, buscamos destacar a importância da **colaboração**, **interação** e **networking** como elementos essenciais para o sucesso acadêmico e profissional.
