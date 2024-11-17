@@ -36,8 +36,8 @@ Confira demonstração das funcionalidades do projeto:
 <span id="backlogs">
 
 ## :dart: Backlogs & User Stories
-    
 <div align="center">
+<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
 </div>
   
 → [Voltar ao topo](#topo)
