@@ -51,8 +51,14 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 - Atribuir tarefas para os membros da equipe com base nas suas habilidades e capacidades.
 
 
+## 🏁 Sprint 02. Arquitetura e Interface do Projeto
 
+**Objetivo da Sprint:** Reestruturar o projeto, implementar novas páginas e microserviços.
 
+- Melhorar elementos gráficos como cores, tipografia e ícones.
+- Definir a estrutura visual das páginas de perguntas e respostas.
+- Desenvolvimento de outras APIs e suas operações.
+- Refazer ou melhorar os componentes da interface visual.
 
 
 ### :clapper: Apresentação Final
