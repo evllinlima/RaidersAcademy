@@ -28,7 +28,7 @@ Além disso, oferecemos aos usuários a possibilidade de expandir suas redes de 
 
 :pushpin: Status do Projeto: **Em andamento** :heavy_check_mark:
 
-### 🏁 Entregas de Sprints
+## 🏁 Entregas de Sprints
 As entregas foram realizadas a partir da criação de Sprints utilizando a plataforma Jira.
 
 | Sprint | Previsão | Status |
@@ -39,7 +39,7 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 | 04 | xx/xx/xxxx | ✔️ Em andamento |
 
 
-### 🏁 Sprint 01. Padronização do Projeto
+## 🏁 Sprint 01. Padronização do Projeto
 
 **Objetivo da Sprint:** Estruturar o projeto com MVC, criar rotas para o controle de usuários e integração com o MongoDB, aprimorar as páginas de login/cadastro, e organizar as tarefas da equipe.
 
