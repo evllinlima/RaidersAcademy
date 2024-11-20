@@ -60,6 +60,16 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 - Desenvolvimento de outras APIs e suas operações.
 - Refazer ou melhorar os componentes da interface visual.
 
+## 🏁 Sprint 03. Segurança, Estruturação do Sistema
+
+**Objetivo Principal:** Implementar medidas de segurança, organizar o banco de dados e estruturar funcionalidades de perfil e integração da aplicação.
+
+- Descentralização e isolamento de responsabilidades entre o front-end e o back-end, 
+- Adicionar JWT ao fluxo de autenticação para garantir que os usuários sejam autenticados de forma segura ao acessar o sistema.
+- Desenvolver a página de perfil onde os usuários poderão visualizar e editar suas informações pessoais.
+- Revisar o modelo de dados.
+- Planejar as próximas sprints e ajustar o cronograma conforme necessário.
+
 
 ### :clapper: Apresentação Final
 Confira demonstração das funcionalidades do projeto:
