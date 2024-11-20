@@ -31,11 +31,11 @@ Além disso, oferecemos aos usuários a possibilidade de expandir suas redes de 
 ### 🏁 Entregas de Sprints
 As entregas foram realizadas a partir da criação de Sprints utilizando a plataforma Jira.
 | Sprint | Previsão | Status | Histórico |
-|:--:|:----------:|:----------------|:-------------------------:|
-| 01 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
-| 02 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
-| 03 | xx/xx/xxxx | ✔️ Concluída    | [ver relatório](xxxxxxx) |
-| 04 | xx/xx/xxxx | ✔️ Em andamento | [ver relatório](xxxxxxx) |
+|:--:|:----------:|:----------------|
+| 01 | xx/xx/xxxx | ✔️ Concluída    |
+| 02 | xx/xx/xxxx | ✔️ Concluída    |
+| 03 | xx/xx/xxxx | ✔️ Concluída    |
+| 04 | xx/xx/xxxx | ✔️ Em andamento |
 
 ### :clapper: Apresentação Final
 Confira demonstração das funcionalidades do projeto:
