@@ -44,9 +44,9 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 **Objetivo da Sprint:** Estruturar o projeto com MVC, criar rotas para o controle de usuários e integração com o MongoDB, aprimorar as páginas de login/cadastro, e organizar as tarefas da equipe.
 
 - Estruturar os arquivos em três camadas principais: Model, View e Controller.
-- Criar rotas para direcionar as requisições aos controllers e garantir que as views recebam os dados dos models.
+- Criar rotas para direcionar as requisições.
 - Implementar endpoints para operações de usuário (criar, buscar, atualizar e excluir).
-- Analisar o design atual das páginas de login e cadastro e identificar melhorias (campos, botões, cores, etc.).
+- Analisar o design atual das páginas de login e cadastro e identificar melhorias.
 - Estruturar o banco de dados no MongoDB para armazenar os dados do projeto.
 - Atribuir tarefas para os membros da equipe com base nas suas habilidades e capacidades.
 
