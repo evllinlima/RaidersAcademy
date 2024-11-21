@@ -83,9 +83,8 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 → [Voltar ao topo](#topo)
 
-
-<span id="backlogs">
 ## :dart: Backlogs & User Stories
+<span id="backlogs">
 <div align="center">
 <img src="https://i.ibb.co/yQ62mLJ/1.png" alt="backlogs" width=50%></a>
 <img src="https://i.ibb.co/QfMm5b2/2.png" alt="backlogs" width=50%></a>
