@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://i.ibb.co/Z14jYcT/Banner.png" alt="Banner" width="900%">
+<img src="https://i.ibb.co/Z14jYcT/Banner.png" alt="Banner" width="90%">
+
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
