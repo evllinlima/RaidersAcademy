@@ -33,10 +33,10 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 | Sprint | Previsão | Status |
 |:--:|:----------:|:----------------|
-| 01 | xx/xx/xxxx | ✔️ Concluída    |
-| 02 | xx/xx/xxxx | ✔️ Concluída    |
-| 03 | xx/xx/xxxx | ✔️ Concluída    |
-| 04 | xx/xx/xxxx | ✔️ Em andamento |
+| 01 | 30/08/2024 | ✔️ Concluída    |
+| 02 | 27/09/2024 | ✔️ Concluída    |
+| 03 | 28/10/2024 | ✔️ Concluída    |
+| 04 | 27/11/2024 | ✔️ Em andamento |
 
 
 ## 🏁 Sprint 01. Padronização do Projeto
