@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/9yQxzqJ/RAIDERS-ACADEMY.png" alt="RAIDERS-ACADEMY" width="1000"></a>
-</div>
+<img src="https://i.ibb.co/Z14jYcT/Banner.png" alt="Banner" border-radius="10"></a></div>
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
