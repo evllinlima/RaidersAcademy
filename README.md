@@ -71,13 +71,20 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 - Planejar as próximas sprints e ajustar o cronograma conforme necessário.
 
 
-### :clapper: Apresentação Final
-Confira demonstração das funcionalidades do projeto:
+## 🏁 Sprint 04. Finalização, Implantação e Validação do Projeto
+
+**Objetivo Principal:** Finalizar o projeto com a implementação de testes, realizar o deploy da aplicação, concluir a documentação necessária e apresentar o projeto finalizado para as partes interessadas.
+
+- Automação de testes unitários.
+- Realização do deploy da aplicação para o ambiente de produção.
+- Finalização da documentação do projeto.
+- Preparação da apresentação do projeto.
+- Apresentação do projeto integrador para a banca avaliadora.
 
 → [Voltar ao topo](#topo)
 
-<span id="backlogs">
 
+<span id="backlogs">
 ## :dart: Backlogs & User Stories
 <div align="center">
 <img src="https://i.ibb.co/yQ62mLJ/1.png" alt="backlogs" width=50%></a>
