@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/9yQxzqJ/RAIDERS-ACADEMY.png" alt="RAIDERS-ACADEMY" border="0"></a>
+<img src="https://i.ibb.co/9yQxzqJ/RAIDERS-ACADEMY.png" alt="RAIDERS-ACADEMY" width="200"></a>
 </div>
 <br id="topo">
 <p align="center">
