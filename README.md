@@ -8,7 +8,7 @@
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
-   
+</div>   
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
