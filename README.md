@@ -1,6 +1,5 @@
 <div align="center">
-    
-![banner](xxxx)
+<img src="https://i.ibb.co/9yQxzqJ/RAIDERS-ACADEMY.png" alt="RAIDERS-ACADEMY" border="0"></a>
 </div>
 <br id="topo">
 <p align="center">
@@ -36,7 +35,7 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 | 01 | 30/08/2024 | ✔️ Concluída    |
 | 02 | 27/09/2024 | ✔️ Concluída    |
 | 03 | 28/10/2024 | ✔️ Concluída    |
-| 04 | 27/11/2024 | ✔️ Em andamento |
+| 04 | 27/11/2024 |     Em andamento |
 
 
 ## 🏁 Sprint 01. Padronização do Projeto
