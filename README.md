@@ -101,8 +101,8 @@ Por conta da arquitetura orientada a microsserviços adotada neste projeto, houv
 Para outras documentações do projeto foram condensadas em arquivo PDF.
     
 > 🔗 **Links gerais** <br>
->    - **Frontend:** [clique para acessar o front-end](xxxxxxx))
->    - **Backend:** [clique para acessar o back-end](xxxx))
+>    - **Frontend:** [clique para acessar o front-end](xxxxxxx)
+>    - **Backend:** [clique para acessar o back-end](xxxx)
 
 → [Voltar ao topo](#topo)
 
