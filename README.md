@@ -1,6 +1,6 @@
 <div align="center">
     
-![banner](https://imgur.com/7rV3s0t)
+ <img src="https://i.imgur.com/7rV3s0t.jpg" alt="Banner Raiders Academy">
 
 </div>
 
