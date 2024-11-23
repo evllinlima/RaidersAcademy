@@ -1,7 +1,9 @@
 <div align="center">
     
-![banner](https://i.ibb.co/kXftWzf/RAIDERS-ACADEMY-2.png)
+![banner](https://imgur.com/a/48fEbJp)
+</div>
 
+<div>
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
