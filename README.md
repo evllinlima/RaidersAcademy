@@ -1,5 +1,5 @@
-<div align="center">
 <img src="https://i.ibb.co/kXftWzf/RAIDERS-ACADEMY-2.png" alt="RAIDERS-ACADEMY-2" border="0">
+<div align="center">
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
