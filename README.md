@@ -1,9 +1,10 @@
 <div align="center">
     
 ![banner](https://imgur.com/7rV3s0t)
+
 </div>
 
-<div>
+
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
@@ -12,7 +13,7 @@
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
-</div>   
+
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
