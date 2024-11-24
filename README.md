@@ -104,7 +104,7 @@ Por conta da arquitetura orientada a microsserviços adotada neste projeto, houv
 Para outras documentações do projeto foram condensadas em arquivo PDF.
     
 > 🔗 **Links gerais** <br>
->    - **Frontend:** [clique para acessar o front-end]([xxxxxxx](https://github.com/evllinlima/RaidersAcademy-frontend/tree/main/raider-acad))
+>    - **Frontend:** [clique para acessar o front-end]([https://github.com/evllinlima/RaidersAcademy-frontend/tree/main/raider-acad])
 >    - **Backend:** [clique para acessar o back-end](xxxx)
 
 → [Voltar ao topo](#topo)
