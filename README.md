@@ -94,6 +94,7 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 <img src="https://i.ibb.co/Hq1s96S/14.png" alt="14" width=50%></a>
 </div>
 > Acesse as sprints na plataforma Jira: [clique aqui](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline) 
+    
 → [Voltar ao topo](#topo)
 
 <span id="prototipo">
