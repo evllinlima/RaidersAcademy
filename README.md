@@ -106,6 +106,7 @@ Para outras documentações do projeto foram condensadas em arquivo PDF.
 > 🔗 **Links gerais** <br>
 >    - **Frontend:** [clique para acessar o front-end](https://github.com/evllinlima/RaidersAcademy-frontend/tree/main/raider-acad)
 >    - **Backend:** [clique para acessar o back-end](https://github.com/evllinlima/RaidersAcademy-backend)
+>    - **Jira:** [clique para acessar o Jira](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
 → [Voltar ao topo](#topo)
 
