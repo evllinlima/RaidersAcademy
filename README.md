@@ -93,7 +93,8 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 <img src="https://i.ibb.co/QfMm5b2/2.png" alt="backlogs" width=50%></a>
 <img src="https://i.ibb.co/Hq1s96S/14.png" alt="14" width=50%></a>
 </div>
-> Acesse as sprints na plataforma Jira: [clique aqui](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline) 
+>    - **Jira:** [clique para acessar o Jira](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
+
     
 → [Voltar ao topo](#topo)
 
