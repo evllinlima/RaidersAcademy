@@ -105,7 +105,7 @@ Para outras documentações do projeto foram condensadas em arquivo PDF.
     
 > 🔗 **Links gerais** <br>
 >    - **Frontend:** [clique para acessar o front-end](https://github.com/evllinlima/RaidersAcademy-frontend/tree/main/raider-acad)
->    - **Backend:** [clique para acessar o back-end](xxxx)
+>    - **Backend:** [clique para acessar o back-end](https://github.com/evllinlima/RaidersAcademy-backend)
 
 → [Voltar ao topo](#topo)
 
