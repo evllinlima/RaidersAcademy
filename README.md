@@ -54,7 +54,7 @@ Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
    <summary>Cadastro de usuário</summary>
     <div align="center">
-        <img width="50px" src="raider-acad/src/assets/img/Cadastro.gif">
+        <img width="500px" src="raider-acad/src/assets/img/Cadastro.gif">
 </details>
 <details>
    <summary>Login de Usuário</summary>
