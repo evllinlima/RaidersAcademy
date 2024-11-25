@@ -47,7 +47,7 @@ Confira a seguir  do sistema:
 <details>
    <summary>Home</summary>
     <div align="center">
-        <img src="raider-acad/src/assets/img/Home.gif">
+        ![](https://github.com/evllinlima/RaidersAcademy-frontend/blob/main/raider-acad/src/assets/img/Cadastro.gif)
 </details>
 <details>
    <summary>Cadastro de Usuário</summary>
