@@ -43,25 +43,27 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 
 ### :clapper: Apresentação Final
-Confira a seguir  do sistema:
 <div>
+Confira a seguir  do sistema:
 <details>
    <summary>Home</summary>
     <div align="center">
-        <img src="https://imgur.com/jxKLjQO">
+        <img src="raider-acad/src/assets/img/HomePage.gif">
     </div>
 <details>
    <summary>Cadastro de Usuário</summary>
     <div align="center">
-        <img src="https://imgur.com/jxKLjQO">
+        <img src="raider-acad/src/assets/img/Cadastro.gif">
     </div>
 </details>
 <details>Login do Usuário</summary>
     <div align="center">
-        <img src="https://imgur.com/i0sQ2cQ">
+        <img src="raider-acad/src/assets/img/Login.gif">
     </div>
 </details>
 </div>
+
+→ [Voltar ao topo](#topo)
 
 ## 🏁 Sprint 01. Padronização do Projeto
 
