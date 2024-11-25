@@ -47,8 +47,7 @@ Confira a seguir  do sistema:
 <details>
    <summary>Home</summary>
     <div align="center">
-        <img src="https://imgur.com/6eOwZr3">
-    </div>
+        <img src="/assets/img/Home.gif">
 </details>
 <details>
    <summary>Cadastro de Usuário</summary>
