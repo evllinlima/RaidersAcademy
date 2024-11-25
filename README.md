@@ -44,6 +44,7 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 ### :clapper: Apresentação Final
 Confira a seguir  do sistema:
+<div>
 <details>
    <summary>Home</summary>
     <div align="center">
@@ -60,7 +61,7 @@ Confira a seguir  do sistema:
         <img src="https://imgur.com/i0sQ2cQ">
     </div>
 </details>
-
+</div>
 
 ## 🏁 Sprint 01. Padronização do Projeto
 
