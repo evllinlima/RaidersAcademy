@@ -44,7 +44,16 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 >    - **Jira:** [clique para acessar o Jira](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
 
-[Imgur](https://imgur.com/i0sQ2cQ)
+### :clapper: Apresentação Final
+Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+<details>
+   <summary>Usuário comum</summary>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
+        <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    </div>
+</details>
+
 
 ## 🏁 Sprint 01. Padronização do Projeto
 
