@@ -45,11 +45,11 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 
 ### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 <details>
-   <summary>Usuário comum</summary>
+   <summary>Home</summary>
     <div align="center">
-        ![HomePage](https://github.com/user-attachments/assets/e4131646-b732-4701-b871-5f3dd0e80710)
+        <img src="raider-acad/src/assets/img/HomePage.gif">
 </details>
 
 
