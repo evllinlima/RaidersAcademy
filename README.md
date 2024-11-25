@@ -74,6 +74,8 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 - Revisar o modelo de dados.
 - Planejar as próximas sprints e ajustar o cronograma conforme necessário.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/u825Pdy" data-context="false" ><a href="//imgur.com/a/u825Pdy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ## 🏁 Sprint 04. Finalização, Implantação e Validação do Projeto
 
