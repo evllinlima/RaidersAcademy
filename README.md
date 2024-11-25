@@ -51,6 +51,16 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
     <div align="center">
         <img src="raider-acad/src/assets/img/HomePage.gif">
 </details>
+<details>
+   <summary>Cadastro</summary>
+    <div align="center">
+        <img src="raider-acad/src/assets/img/Cadastro.gif">
+</details>
+<details>
+   <summary>Login</summary>
+    <div align="center">
+        <img src="raider-acad/src/assets/img/Login.gif">
+</details>
 
 
 ## 🏁 Sprint 01. Padronização do Projeto
