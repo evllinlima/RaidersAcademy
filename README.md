@@ -47,7 +47,7 @@ Confira a seguir  do sistema:
 <details>
    <summary>Home</summary>
     <div align="center">
-        <img src="/assets/img/Home.gif">
+        <img src="raider-acad/src/assets/img/Home.gif">
 </details>
 <details>
    <summary>Cadastro de Usuário</summary>
