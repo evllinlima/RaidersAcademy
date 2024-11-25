@@ -49,9 +49,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <details>
    <summary>Usuário comum</summary>
     <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
-        <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-    </div>
+        <img src="https://github.com/user-attachments/assets/533245f1-1465-4404-b706-feb61e75f6be">
 </details>
 
 
