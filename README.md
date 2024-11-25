@@ -42,6 +42,27 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 | 04 | 27/11/2024 |     Em andamento |
 
 
+### :clapper: Apresentação Final
+Confira a seguir  do sistema:
+<details>
+   <summary>Home</summary>
+    <div align="center">
+        <img src="https://imgur.com/6eOwZr3">
+    </div>
+</details>
+<details>
+   <summary>Cadastro de Usuário</summary>
+    <div align="center">
+        <img src="https://imgur.com/jxKLjQO">
+    </div>
+</details>
+<details>Login do Usuário</summary>
+    <div align="center">
+        <img src="https://imgur.com/i0sQ2cQ">
+    </div>
+</details>
+
+
 ## 🏁 Sprint 01. Padronização do Projeto
 
 **Objetivo da Sprint:** Estruturar o projeto com MVC, criar rotas para o controle de usuários e integração com o MongoDB, aprimorar as páginas de login/cadastro, e organizar as tarefas da equipe.
