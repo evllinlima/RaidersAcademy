@@ -47,8 +47,8 @@ Confira a seguir  do sistema:
 <details>
    <summary>Home</summary>
     <div align="center">
-        ![HomePage](https://github.com/user-attachments/assets/d4155458-0337-4f1d-af79-65e33f7b7d7f)       
-</details>
+        <img src="https://imgur.com/jxKLjQO">
+    </div>
 <details>
    <summary>Cadastro de Usuário</summary>
     <div align="center">
