@@ -41,29 +41,7 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 | 03 | 28/10/2024 | ✔️ Concluída    |
 | 04 | 27/11/2024 |     Em andamento |
 
-
-### :clapper: Apresentação Final
-<div>
-Confira a seguir  do sistema:
-<details>
-   <summary>Home</summary>
-    <div align="center">
-        <img src="raider-acad/src/assets/img/HomePage.gif">
-    </div>
-<details>
-   <summary>Cadastro de Usuário</summary>
-    <div align="center">
-        <img src="raider-acad/src/assets/img/Cadastro.gif">
-    </div>
-</details>
-<details>Login do Usuário</summary>
-    <div align="center">
-        <img src="raider-acad/src/assets/img/Login.gif">
-    </div>
-</details>
-</div>
-
-→ [Voltar ao topo](#topo)
+>    - **Jira:** [clique para acessar o Jira](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
 ## 🏁 Sprint 01. Padronização do Projeto
 
