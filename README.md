@@ -43,6 +43,9 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 >    - **Jira:** [clique para acessar o Jira](https://lucassantosgomes02-1730328942110.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
+
+[Imgur](https://imgur.com/i0sQ2cQ)
+
 ## 🏁 Sprint 01. Padronização do Projeto
 
 **Objetivo da Sprint:** Estruturar o projeto com MVC, criar rotas para o controle de usuários e integração com o MongoDB, aprimorar as páginas de login/cadastro, e organizar as tarefas da equipe.
