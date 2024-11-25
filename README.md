@@ -49,7 +49,7 @@ Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
    <summary>Home Page</summary>
     <div align="center">
-        <img src="raider-acad/src/assets/img/HomePage.gif">
+        <img width="600px" src="raider-acad/src/assets/img/HomePage.gif">
 </details>
 <details>
    <summary>Cadastro de usuário</summary>
@@ -59,7 +59,7 @@ Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
    <summary>Login de Usuário</summary>
     <div align="center">
-        <img src="raider-acad/src/assets/img/Login.gif">
+        <img width="600px" src="raider-acad/src/assets/img/Login.gif">
 </details>
 
 
