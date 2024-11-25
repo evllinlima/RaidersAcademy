@@ -49,7 +49,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <details>
    <summary>Usuário comum</summary>
     <div align="center">
-        <img src="https://github.com/user-attachments/assets/533245f1-1465-4404-b706-feb61e75f6be">
+        ![HomePage](https://github.com/user-attachments/assets/e4131646-b732-4701-b871-5f3dd0e80710)
 </details>
 
 
