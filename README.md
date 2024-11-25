@@ -45,19 +45,19 @@ As entregas foram realizadas a partir da criação de Sprints utilizando a plata
 
 
 ### :clapper: Apresentação Final
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
-   <summary>Home</summary>
+   <summary>Home Page</summary>
     <div align="center">
         <img src="raider-acad/src/assets/img/HomePage.gif">
 </details>
 <details>
-   <summary>Cadastro</summary>
+   <summary>Cadastro de usuário</summary>
     <div align="center">
         <img src="raider-acad/src/assets/img/Cadastro.gif">
 </details>
 <details>
-   <summary>Login</summary>
+   <summary>Login de Usuário</summary>
     <div align="center">
         <img src="raider-acad/src/assets/img/Login.gif">
 </details>
