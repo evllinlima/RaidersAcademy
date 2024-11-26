@@ -1,0 +1,34 @@
+<header class="header">
+    <div class="overlay" #overlay></div>
+    <div class="menu-icon" #menuIcon>
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#00e5ff" stroke-width="2">
+        <line x1="3" y1="12" x2="21" y2="12"></line>
+        <line x1="3" y1="6" x2="21" y2="6"></line>
+        <line x1="3" y1="18" x2="21" y2="18"></line>
+      </svg>
+    </div>
+    <div class="close-icon" #closeIcon>
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#00e5ff" stroke-width="2">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </div>
+  
+    <div class="logo-container">
+      <img class="logo" src="/assets/images/carousel/Raiders.LogoBranco.png" alt="">
+      <h1 class="company-name">Raiders Academy</h1>
+    </div>
+  
+    <nav class="navbar" #navbar>
+      <ul>
+        <li><a href="/home">Início</a></li>
+        <li><a href="#about">Sobre</a></li>
+        <li><a href="#features">Nossos Cursos</a></li>
+        <li><a href="#how-it-works">Como Funciona</a></li>
+      </ul>
+      <div class="auth-buttons">
+        <button class="auth-btn login-btn" (click)="navigateToLogin()">Login</button>
+      </div>
+    </nav>
+  </header>
+  

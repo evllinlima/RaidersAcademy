@@ -1,0 +1,131 @@
+<main>
+  <div class="container" id="container" [ngClass]="{ active: !_isLoginMode }">
+    <!-- Container de Registro -->
+    <div class="form-container sign-up-container">
+      <form (ngSubmit)="register()">
+        <h1>Crie sua conta!</h1>
+        <br />
+        <span>Faça seu cadastro e explore a Raiders Academy.</span>
+        <input
+          type="text"
+          [(ngModel)]="user.nome"
+          name="nome"
+          placeholder="Nome Completo"
+          required
+        />
+        <input
+          type="email"
+          [(ngModel)]="user.email"
+          name="email"
+          placeholder="Email"
+          required
+        />
+        <input
+          type="password"
+          [(ngModel)]="user.senha"
+          name="senha"
+          placeholder="Senha"
+          required
+        />
+        <input
+          type="text"
+          [(ngModel)]="user.cpf"
+          name="cpf"
+          placeholder="CPF"
+          required
+        />
+        <br />
+        <div class="radio-group">
+          <label>
+            <input
+              type="radio"
+              [(ngModel)]="user.tipo"
+              value="aluno"
+              name="perfil"
+              required
+            />
+            Estudante
+          </label>
+          <label>
+            <input
+              type="radio"
+              [(ngModel)]="user.tipo"
+              value="professor"
+              name="perfil"
+              required
+            />
+            Professor
+          </label>
+        </div>
+
+        <div *ngIf="user.tipo === 'aluno'">
+          <label for="curso">Selecione o curso:</label>
+          <select [(ngModel)]="user.curso" name="curso" required>
+            <option *ngFor="let curso of cursos" [value]="curso._id">
+              {{ curso.nome }}
+            </option>
+          </select>
+        </div>
+
+        <div *ngIf="user.tipo === 'professor'">
+          <label>Selecione os cursos:</label>
+          <div *ngFor="let curso of cursos">
+            <label>
+              <input
+                type="checkbox"
+                [value]="curso._id"
+                (change)="onCursoChange(curso._id, $event)"
+              />
+              {{ curso.nome }}
+            </label>
+          </div>
+        </div>
+
+        <button type="submit">Cadastrar</button>
+      </form>
+    </div>
+
+    <!-- Container de Login -->
+    <div class="form-container sign-in-container">
+      <form (ngSubmit)="login()">
+        <h1>Já possui conta?</h1>
+        <span>Faça login para continuar sua jornada conosco.</span>
+        <input
+          type="email"
+          [(ngModel)]="loginData.email"
+          name="email"
+          placeholder="Email"
+          required
+        />
+        <input
+          type="password"
+          [(ngModel)]="loginData.senha"
+          name="senha"
+          placeholder="Senha"
+          required
+        />
+        <a href="#">Esqueceu sua senha?</a>
+        <button type="submit">Entrar</button>
+      </form>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay-container">
+      <div class="overlay">
+        <div class="overlay-panel overlay-left">
+          <h1>Bem-vindo de volta!</h1>
+          <p>Estamos prontos para ajudar você a continuar estudando.</p>
+          <button class="ghost" (click)="toggleMode()">Faça seu login</button>
+        </div>
+        <div class="overlay-panel overlay-right">
+          <h1>Olá, estudante!</h1>
+          <p>
+            Insira seus dados e inicie sua jornada de aprendizado ao lado de
+            outros estudantes.
+          </p>
+          <button class="ghost" (click)="toggleMode()">Crie sua conta</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

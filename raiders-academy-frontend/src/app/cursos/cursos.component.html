@@ -1,0 +1,19 @@
+<!-- cursos.component.html -->
+
+<div *ngIf="cursos.length" class="cursos-container">
+    <div *ngFor="let curso of cursos">
+      <h2>{{ curso.nome }}</h2>
+      <ul>
+        <li *ngFor="let disciplina of disciplinas">
+          <div *ngIf="disciplina.curso === curso._id" (click)="navegarParaPerguntas(disciplina._id)">
+            {{ disciplina.nome }}
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
+  <div *ngIf="!cursos.length" class="cursos-container">
+    <p>Carregando cursos...</p>
+  </div>
+  

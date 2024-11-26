@@ -1,0 +1,16 @@
+<!-- perguntas.component.html -->
+<div class="principal">
+<div *ngIf="perguntas.length" class="perguntas-container">
+    <div *ngFor="let pergunta of perguntas">
+      <h2>{{ pergunta.titulo }}</h2>
+      <p>{{ pergunta.descricao }}</p>
+      <p><strong>Autor:</strong> {{ pergunta.autor?.email }}</p>
+    </div>
+  </div>
+  
+  <div *ngIf="!perguntas.length" class="perguntas-container">
+    <p>Carregando perguntas...</p>
+  </div>
+  <button class="btn" type="button">Nova Resposta</button>
+</div>
+  

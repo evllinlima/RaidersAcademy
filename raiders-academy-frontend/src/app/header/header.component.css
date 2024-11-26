@@ -1,0 +1,210 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #050a1ccc;
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+    height: 80px;
+    box-sizing: border-box;
+}
+
+.menu-icon {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px;
+    transition: transform 0.3s ease;
+    z-index: 1002;
+}
+
+.menu-icon.active {
+    visibility: hidden;
+}
+
+.close-icon {
+    display: none;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+    padding: 10px;
+    transition: transform 0.3s ease;
+    z-index: 1002;
+}
+
+.close-icon.active {
+    display: block;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+    object-fit: contain;
+}
+
+.company-name {
+    font-size: 2em;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+}
+
+/* Navbar styles - Principais correções aqui */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 280px;
+    height: 100vh; /* Garante altura total da viewport */
+    background-color: #0a1a3a;
+    padding: 80px 20px 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    transition: left 0.3s ease;
+    z-index: 1001;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Alterado para flex-start */
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.navbar.active {
+    left: 0;
+    height: 100vh; /* Reforça a altura total */
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%; /* Garante largura total */
+}
+
+.navbar li {
+    margin-bottom: 20px;
+    width: 100%; /* Garante largura total */
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+    display: block;
+    padding: 10px;
+    width: 100%; /* Garante largura total */
+}
+
+.navbar a:hover {
+    color: #00e5ff;
+    text-shadow: 0 0 10px #00e5ff;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
+
+/* Auth buttons styles */
+.auth-buttons {
+    margin-top: auto; /* Empurra os botões para o final do navbar */
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.auth-btn {
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.login-btn {
+    background-color: #00e5ff;
+    color: #050a1c;
+}
+
+.login-btn:hover {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px #00e5ff;
+}
+
+.signup-btn {
+    background-color: transparent;
+    color: #00e5ff;
+    border: 2px solid #00e5ff;
+}
+
+.signup-btn:hover {
+    background-color: #00e5ff;
+    color: #050a1c;
+    box-shadow: 0 0 10px #00e5ff;
+}
+
+/* Overlay para quando o navbar estiver ativo */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+    z-index: 1000;
+}
+
+.overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding: 10px 15px;
+        height: 60px;
+    }
+
+    .logo {
+        width: 40px;
+        height: 40px;
+        margin-right: 10px;
+    }
+
+    .company-name {
+        font-size: 1.5em;
+    }
+
+    .navbar {
+        width: 250px;
+        padding-top: 60px;
+    }
+
+    .auth-buttons {
+        padding: 15px;
+    }
+
+    .auth-btn {
+        padding: 10px;
+    }
+}

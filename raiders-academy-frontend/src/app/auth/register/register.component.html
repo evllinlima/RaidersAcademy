@@ -1,0 +1,25 @@
+<div class="container">
+    <form (ngSubmit)="register()">
+      <h1>Crie sua conta!</h1>
+      <span>Faça seu cadastro e explore a Raiders Academy.</span>
+  
+      <input type="text" [(ngModel)]="user.nome" name="nome" placeholder="Nome Completo" required />
+      <input type="email" [(ngModel)]="user.email" name="email" placeholder="Email" required />
+      <input type="password" [(ngModel)]="user.senha" name="senha" placeholder="Senha" required />
+      <input type="text" [(ngModel)]="user.cpf" name="cpf" placeholder="CPF" required />
+  
+      <div>
+        <label>
+          <input type="radio" [(ngModel)]="user.tipo" value="aluno" name="perfil" required /> Estudante
+        </label>
+        <label>
+          <input type="radio" [(ngModel)]="user.tipo" value="professor" name="perfil" required /> Professor
+        </label>
+      </div>
+  
+      <input type="text" [(ngModel)]="user.curso" name="curso" placeholder="Curso" *ngIf="user.tipo === 'aluno'" />
+  
+      <button type="submit">Cadastrar</button>
+    </form>
+  </div>
+  

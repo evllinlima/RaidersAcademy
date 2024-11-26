@@ -1,0 +1,152 @@
+/* Reset básico para remover margens e paddings padrões */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo da página */
+.body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #000020; /* Fundo azul escuro */
+  color: #fff; /* Texto em branco */
+  text-align: center; /* Centraliza o conteúdo da página */
+}
+
+/* Estilos gerais para cada seção */
+.section {
+  padding: 20px;
+  margin-bottom: 40px; /* Espaço entre as seções */
+}
+
+/* Estilos para os títulos (h1) */
+h1 {
+  color: #66ccff; /* Azul claro */
+  margin: 90px;
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  text-align: center; /* Centraliza o título */
+}
+
+/* Estilos para o texto (p) */
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #ddd; /* Texto em cinza claro */
+  margin-bottom: 20px;
+  text-align: center; /* Centraliza o texto */
+}
+
+/* Estilos para o botão */
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #66ccff; /* Azul claro */
+  color: #161740; /* Texto azul escuro */
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+/* Efeito de hover no botão */
+.btn:hover {
+  background-color: #4db8ff; /* Tom mais escuro de azul claro */
+}
+
+/* Grid para os cursos (features) */
+.feature-grid {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Estilos para os itens da grid (cada curso) */
+.feature-item {
+  background-color: #09052e; /* Fundo mais escuro para os cards */
+  color: #fff;
+  padding: 50px;
+  width: 450px;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.feature-item:hover {
+  transform: scale(1.05); /* Aumenta um pouco o card ao passar o mouse */
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+/* Estilos do carrossel */
+.carousel-inner {
+  height: 500px; /* Altura maior para não cortar as imagens */
+  margin: auto; /* Centraliza o carrossel */
+}
+
+.carousel-item img {
+  width: 60%;
+  height: 40%;
+  align-items: center;
+}
+
+/* Controles do carrossel */
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .feature-grid {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .feature-item {
+      width: 90%;
+      margin-bottom: 20px;
+  }
+
+  h1 {
+      font-size: 2rem;
+  }
+
+  .btn {
+      font-size: 1rem;
+      padding: 10px 20px;
+  }
+
+
+  .carousel-item img {
+      object-fit: cover; /* Garante que a imagem continue coberta */
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+      font-size: 1.8rem;
+  }
+
+  p {
+      font-size: 1rem;
+  }
+
+  .btn {
+      font-size: 0.9rem;
+      padding: 8px 18px;
+  }
+
+  .carousel-inner {
+      height: 250px; /* Menor altura para telas pequenas */
+  }
+
+  .carousel-item img {
+      object-fit: cover; /* Garante o ajuste correto da imagem */
+  }
+}
