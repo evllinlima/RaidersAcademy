@@ -54,12 +54,12 @@ Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
    <summary>Cadastro de usuário</summary>
     <div align="center">
-        <img width="600px" src="raider-acad/src/assets/img/Cadastro.gif">
+        <img width="600px" src="raiders-academy-frontend/public/assets/images/Cadastro.gif">
 </details>
 <details>
    <summary>Login de Usuário</summary>
     <div align="center">
-        <img width="600px" src="raider-acad/src/assets/img/Login.gif">
+        <img width="600px" src="raiders-academy-frontend/public/assets/images/Login.gif">
 </details>
 
 
