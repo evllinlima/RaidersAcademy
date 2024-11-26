@@ -49,7 +49,7 @@ Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
    <summary>Home Page</summary>
     <div align="center">
-        <img width="600px" src="raider-acad/src/assets/img/HomePage.gif">
+        <img width="600px" src="raiders-academy-frontend/public/assets/images/HomePage.gif">
 </details>
 <details>
    <summary>Cadastro de usuário</summary>
