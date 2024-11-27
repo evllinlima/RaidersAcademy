@@ -45,4 +45,8 @@ export class AuthService {
   getPerguntasByDisciplina(disciplinaId: string): Observable<any[]> {
     return this.http.get<any[]>(`${this.apiUrl}/perguntas/${disciplinaId}`);
   }
+
+  getRespostasByPergunta(perguntaId: string): Observable<any[]> {
+    return this.http.get<any[]>(`${this.apiUrl}/perguntas/${perguntaId}/respostas`);
+  }
 }

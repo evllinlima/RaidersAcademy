@@ -1,19 +1,38 @@
-<!-- cursos.component.html -->
+<div class="body">
 
-<div *ngIf="cursos.length" class="cursos-container">
-    <div *ngFor="let curso of cursos">
-      <h2>{{ curso.nome }}</h2>
-      <ul>
-        <li *ngFor="let disciplina of disciplinas">
-          <div *ngIf="disciplina.curso === curso._id" (click)="navegarParaPerguntas(disciplina._id)">
-            {{ disciplina.nome }}
-          </div>
-        </li>
-      </ul>
+    
+    <!-- Exibe a mensagem de "Carregando cursos..." enquanto o array de cursos está vazio e carregando -->
+    <div *ngIf="isLoading" class="cursos-container">
+      <p>Carregando cursos...</p>
     </div>
-  </div>
   
-  <div *ngIf="!cursos.length" class="cursos-container">
-    <p>Carregando cursos...</p>
+    <!-- Exibe os cursos depois que o carregamento terminar -->
+    <div *ngIf="!isLoading && cursos.length" class="cursos-container">
+      <div *ngFor="let curso of cursos">
+        <div class="curso-block">
+          <a class="curso-title-link">
+            <h2 class="curso-title">{{ curso.nome }}</h2>
+          </a>
+          <div class="disciplinas-container">
+            <!-- Usando ng-container para ter múltiplas diretivas sem conflito -->
+            <ng-container *ngFor="let disciplina of disciplinas">
+              <div *ngIf="disciplina.curso === curso._id" class="disciplina-block" (click)="navegarParaPerguntas(disciplina._id)">
+                <h3 (click)="toggleSyllabus(disciplina._id)">{{ disciplina.nome }}</h3>
+                <div class="syllabus" *ngIf="isSyllabusVisible(disciplina._id)">
+                  <ul>
+                    <li *ngFor="let item of disciplina.syllabus">{{ item }}</li>
+                  </ul>
+                </div>
+              </div>
+            </ng-container>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <!-- Exibe a mensagem de "Não há cursos..." quando o array está vazio, mas somente após o carregamento -->
+    <div *ngIf="!isLoading && !cursos.length" class="cursos-container">
+      <p>Não há cursos disponíveis.</p>
+    </div>
   </div>
   

@@ -13,6 +13,8 @@ import { CommonModule } from '@angular/common';
 export class CursosComponent implements OnInit {
   cursos: any[] = [];
   disciplinas: any[] = [];
+  syllabusVisibility: { [key: string]: boolean } = {};
+  isLoading = true;
 
   constructor(private authService: AuthService, private router: Router) {}
 
@@ -24,16 +26,28 @@ export class CursosComponent implements OnInit {
   getCursos(): void {
     this.authService.getCursos().subscribe((data) => {
       this.cursos = data;
+      this.isLoading = false;
     });
   }
 
   getDisciplinas(): void {
     this.authService.getDisciplinas().subscribe((data) => {
       this.disciplinas = data;
+      this.isLoading = false;
     });
   }
 
   navegarParaPerguntas(disciplinaId: string): void {
     this.router.navigate(['/perguntas', disciplinaId]);
+  }
+
+  toggleSyllabus(disciplinaId: string): void {
+    // Alterna a visibilidade do syllabus da disciplina clicada
+    this.syllabusVisibility[disciplinaId] = !this.syllabusVisibility[disciplinaId];
+  }
+
+  isSyllabusVisible(disciplinaId: string): boolean {
+    // Verifica se o syllabus da disciplina está visível
+    return this.syllabusVisibility[disciplinaId];
   }
 }

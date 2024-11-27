@@ -1,0 +1,73 @@
+/* respostas.component.css */
+
+.respostas-container {
+    margin-top: 80px; /* Garante que o conteúdo fique abaixo do cabeçalho */
+    padding: 20px;
+    color: #ffffff;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffffff;
+  }
+
+  .background{
+    background-color: #000020;
+    height: 90vh;
+  }
+  
+  .resposta {
+    background-color: #05051f;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .resposta:hover {
+    background-color: #000020;
+  }
+  
+  .resposta p {
+    margin: 5px 0;
+  }
+  
+.resposta-input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.resposta-textarea {
+  flex-grow: 1;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  min-height: 100px;
+  resize: vertical;
+  margin: 8px;
+}
+
+.botao {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #66ccff;
+  color: #161740; 
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.botao:hover {
+  background-color: #4db8ff;
+}
+
+.botao:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}

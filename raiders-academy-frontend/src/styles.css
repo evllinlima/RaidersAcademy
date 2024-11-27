@@ -21,6 +21,34 @@ body {
       radial-gradient(circle at 10% 20%, rgba(0, 229, 255, 0.1) 0%, transparent 20%),
       radial-gradient(circle at 90% 80%, rgba(0, 229, 255, 0.1) 0%, transparent 20%);
   }
-  a {
-    text-decoration: none;
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #000020;
+    color: #ffffff;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  #app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  @media (max-width: 768px) {
+    main {
+      padding-top: 60px; /* Altura do header em mobile */
+      padding-bottom: 150px; /* Altura aproximada do footer em mobile */
+    }
   }

@@ -1,40 +1,43 @@
 .cursos-container {
-    margin-top: 80px;
-    padding: 20px;
-    background-color: #000020;
-  }
+  margin-top: 80px;
+  padding: 20px;
+  background-color: #000020;
+}
+.body {
+  height: 100vh;
+}
 
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+a{
+  text-decoration: none;
+}
 
-  h2 {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #ffffff
-    ;
-  }
-  
-  ul {
-    list-style-type: none;
-    color: #ffffff;
-    padding: 0;
-    margin: 0;
-  }
-  
-  li {
-    margin-bottom: 10px;
-  }
+ul {
+  list-style-type: none;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
 
-  li:hover{
-    color: #27c9df;
-  }
-  
-  div {
-    background-color: #000020;
-    padding: 10px;
-    margin-top: 5px;
-  }
-  
-  div:hover {
-    background-color: #000020;
-  }
-  
+li {
+  margin-bottom: 10px;
+}
+
+li:hover{
+  color: #27c9df;
+}
+
+div {
+  background-color: #000020;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+div:hover {
+  background-color: #000020;
+}

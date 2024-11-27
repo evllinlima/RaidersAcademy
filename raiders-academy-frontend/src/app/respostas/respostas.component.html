@@ -1,0 +1,33 @@
+<div class="background">
+  
+<div class="respostas-container" *ngIf="respostas.length > 0 || !isLoading">
+  <div *ngFor="let resposta of respostas" class="resposta">
+    <strong>{{ resposta.autor?.email }}</strong>
+    <p>{{ resposta.descricao }}</p>
+  </div>
+</div>
+
+<div class="respostas-container" *ngIf="isLoading">
+  Carregando respostas...
+</div>
+
+<div class="respostas-container" *ngIf="!isLoading && respostas.length === 0">
+  Não há respostas ainda...
+</div>
+
+<!-- Nova seção para enviar respostas -->
+<div class="resposta-input-container">
+  <textarea 
+    [(ngModel)]="novaResposta" 
+    placeholder="Digite sua resposta..." 
+    class="resposta-textarea"
+  ></textarea>
+  <button 
+    (click)="enviarResposta()" 
+    class="botao"
+    [disabled]="!novaResposta || isEnviando"
+  >
+    {{ isEnviando ? 'Enviando...' : 'Enviar Resposta' }}
+  </button>
+</div>
+</div>

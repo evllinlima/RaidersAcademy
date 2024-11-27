@@ -1,16 +1,47 @@
-<!-- perguntas.component.html -->
 <div class="principal">
-<div *ngIf="perguntas.length" class="perguntas-container">
-    <div *ngFor="let pergunta of perguntas">
+  <div class="perguntas-container" *ngIf="perguntas.length > 0 || mostrarFormCriarPergunta">
+    <!-- Botão para mostrar/esconder formulário de criar pergunta -->
+    <button class="btn" (click)="toggleFormCriarPergunta()">
+      {{ mostrarFormCriarPergunta ? 'Cancelar' : 'Nova Pergunta' }}
+    </button>
+
+    <!-- Formulário para criar pergunta -->
+    <div *ngIf="mostrarFormCriarPergunta" class="criar-pergunta-form">
+      <input 
+        type="text" 
+        [(ngModel)]="tituloPergunta" 
+        placeholder="Título da Pergunta" 
+        class="pergunta-input"
+      >
+      <textarea 
+        [(ngModel)]="descricaoPergunta" 
+        placeholder="Descrição da Pergunta" 
+        class="pergunta-textarea"
+      ></textarea>
+      <button 
+        class="btn" 
+        (click)="criarPergunta()"
+        [disabled]="isEnviando"
+      >
+        {{ isEnviando ? 'Enviando...' : 'Criar Pergunta' }}
+      </button>
+      <div *ngIf="errorMessage" class="error-message">
+        {{ errorMessage }}
+      </div>
+    </div>
+
+    <!-- Lista de perguntas existentes -->
+    <div *ngFor="let pergunta of perguntas" (click)="navegarParaRespostas(pergunta._id)">
       <h2>{{ pergunta.titulo }}</h2>
       <p>{{ pergunta.descricao }}</p>
-      <p><strong>Autor:</strong> {{ pergunta.autor?.email }}</p>
     </div>
   </div>
-  
-  <div *ngIf="!perguntas.length" class="perguntas-container">
-    <p>Carregando perguntas...</p>
+
+  <div class="perguntas-container" *ngIf="perguntas.length === 0 && !isLoading && !mostrarFormCriarPergunta">
+    Não há perguntas...
   </div>
-  <button class="btn" type="button">Nova Resposta</button>
+
+  <div class="perguntas-container" *ngIf="isLoading">
+    Carregando perguntas...
+  </div>
 </div>
-  
